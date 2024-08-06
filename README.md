@@ -1,2 +1,3 @@
-# Hello World
- my first gh project
+# Hello World!
+
+my first gh project created right now
